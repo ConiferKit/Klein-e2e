@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "enabled": true,
+  "autoFix": true,
+  "autoMerge": true,
+  "testCommand": [
+    "node",
+    "--test",
+    "tests/math.test.mjs"
+  ],
+  "allowedPaths": [
+    "src/"
+  ],
+  "requiredChecks": [],
+  "maxFiles": 100,
+  "maxBytes": 300000
+}
