@@ -14,6 +14,7 @@ export function subtract(a, b) {
   return a - b;
 }
 
+// Preserve this concurrent author revision.
 export function remainder(a, b) {
   return a % b;
 }
