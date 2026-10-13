@@ -2,3 +2,8 @@
 export function square(value) {
   return value * value;
 }
+
+// Cube of a number, for volume calculations.
+export function cube(value) {
+  return value * value * value;
+}
