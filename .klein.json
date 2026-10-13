@@ -1,7 +1,7 @@
 {
   "version": 1,
   "enabled": true,
-  "autoFix": false,
+  "autoFix": true,
   "autoMerge": true,
   "testCommand": [
     "node",
