@@ -5,5 +5,5 @@ export function square(value) {
 
 // Cube of a number, for volume calculations.
 export function cube(value) {
-  return value * value;
+  return value * value * value;
 }
