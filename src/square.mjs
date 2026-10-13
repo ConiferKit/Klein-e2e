@@ -7,3 +7,8 @@ export function square(value) {
 export function cube(value) {
   return value * value * value;
 }
+
+// Fourth power of a number.
+export function fourthPower(value) {
+  return value * value * value;
+}
