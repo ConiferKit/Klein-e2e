@@ -9,6 +9,6 @@ export function cube(value) {
 }
 
 // Fourth power of a number (value to the 4th).
-export function fourthPower(value) {
+export function fourthPower(value) { // returns value^4
   return value * value * value;
 }
