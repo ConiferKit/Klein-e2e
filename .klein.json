@@ -13,5 +13,12 @@
   ],
   "requiredChecks": [],
   "maxFiles": 100,
-  "maxBytes": 300000
+  "maxBytes": 300000,
+  "merge": "unblocked",
+  "handoff": {
+    "after": 3,
+    "reviewers": [
+      "charlespers"
+    ]
+  }
 }
