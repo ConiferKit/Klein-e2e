@@ -20,5 +20,6 @@
     "reviewers": [
       "charlespers"
     ]
-  }
+  },
+  "mode": "guard"
 }
